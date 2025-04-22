@@ -1,0 +1,1 @@
+unsigned long long interpretStruct(char * structData, unsigned long long structDataSize);

@@ -1,0 +1,1 @@
+gcc ./main/fileHandling.c ./main/main.c ./main/dataInterpretation.c -o ./main.exe
